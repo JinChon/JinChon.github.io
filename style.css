@@ -21,3 +21,12 @@ h2 {
 #first_h1 {
   color: darkred;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
